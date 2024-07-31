@@ -21,7 +21,7 @@
 title: CodeDaddy personal site
 email: giangnq.it@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is an owesome page created by Quoc Giang Nguyen for personal purpose
+  This is an awesome page created by Quoc Giang Nguyen for personal purpose
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: giangcoi198x
@@ -31,7 +31,8 @@ github_username:  gitstrategy
 theme: minima
 plugins:
   - jekyll-feed
-
+##plugins:
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
