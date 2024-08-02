@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Jekyll"
+date:   2021-11-25 00:06:00 -0400
+categories: programming
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

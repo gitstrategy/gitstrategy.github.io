@@ -13,5 +13,3 @@ I though I will never been laidoff but the real life does not easy
 - I have tried to contact HR but there is no assign project to interview
 - I cannot move to another company because I'm currentl in L1B visa
 can anoyone give me advise
-![James](https://drive.google.com/uc?id=1PQaeTvXi_iaAMe6OkzvCqsVZxYoNzXhs)
-<img src="[images/my-image.png](https://drive.google.com/uc?id=1PQaeTvXi_iaAMe6OkzvCqsVZxYoNzXhs)" alt="My Image" width="400"/>
