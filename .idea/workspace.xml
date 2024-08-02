@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e518f1e-3af4-44a8-8b34-8ba7749e8f71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resume.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myprofile.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/myprofile.markdown" afterDir="false" />
-    </list>
+    <list default="true" id="6e518f1e-3af4-44a8-8b34-8ba7749e8f71" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +86,7 @@
       <workItem from="1710304418035" duration="126000" />
       <workItem from="1710304586677" duration="1104000" />
       <workItem from="1722374610328" duration="5847000" />
-      <workItem from="1722576340139" duration="497000" />
+      <workItem from="1722576340139" duration="751000" />
     </task>
     <servers />
   </component>
