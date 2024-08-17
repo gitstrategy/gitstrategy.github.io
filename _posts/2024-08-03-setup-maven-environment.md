@@ -32,12 +32,12 @@ Move the extracted directory to a location where you want to keep Maven (e.g., `
 ## 4. Set Up Environment Variables
 
 1. Open your profile file in a text editor. Depending on the shell you are using, it could be `~/.bash_profile`, `~/.zshrc`, or `~/.profile`. For example, if you are using zsh (which is the default on macOS Catalina and later):
-    `nano ~/.zshrc`
+`nano ~/.zshrc`
 2. Add the following lines to set the M2_HOME environment variable and update the PATH:
 
-    `export M2_HOME=/usr/local/apache-maven`
+`export M2_HOME=/usr/local/apache-maven`
 
-    `export PATH=$M2_HOME/bin:$PATH`
+`export PATH=$M2_HOME/bin:$PATH`
 
 ### 5. Apply the Changes
 
