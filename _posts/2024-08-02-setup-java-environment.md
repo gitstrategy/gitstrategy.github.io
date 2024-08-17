@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setup Java Environment on Mac OS"
+title:  "Setup Java Environment "
 date:   2024-08-02 13:07:00 -0400
 categories: [programming,java]
 ---
